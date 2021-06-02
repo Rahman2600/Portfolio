@@ -9,6 +9,8 @@ import CardContent from "@material-ui/core/CardContent";
 import CardMedia from "@material-ui/core/CardMedia";
 import Button from "@material-ui/core/Button";
 import Typography from "@material-ui/core/Typography";
+import { Link } from '@material-ui/core';
+
 
 import project1 from "../images/html-css-javascript-lg.jpg";
 import project2 from "../images/html-css-javascript.jpg";
@@ -30,12 +32,9 @@ const useStyles = makeStyles((theme) => ({
 
 const projects = [
   {
-    name: "Project 1",
-    description: `Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quis
-    consequatur magni quod nesciunt necessitatibus molestiae non
-    eligendi, magnam est aliquam recusandae? Magnam soluta minus
-    iste alias sunt veritatis nisi dolores!`,
-    image: project1,
+    name: "MailIt!",
+    description: `Templated email solution for HSBC`,
+    image: project3,
   },
   {
     name: "Project 2",
@@ -80,6 +79,7 @@ const projects = [
 ];
 
 const Portfolio = () => {
+  const preventDefault = event => event.preventDefault();
   const classes = useStyles();
   return (
     <Box component="div" className={classes.mainContainer}>
@@ -105,12 +105,12 @@ const Portfolio = () => {
                 </CardContent>
               </CardActionArea>
               <CardActions>
-                <Button size="small" color="primary">
-                  Share
-                </Button>
-                <Button size="small" color="primary">
-                  Live Demo
-                </Button>
+                  <Button size="small" color="primary" href="https://main.d3gwitonpxsdyn.amplifyapp.com/">
+                      Live Demo
+                  </Button>
+                  <Button href="https://github.com/Rahman2600/7MailIt" size="small" color="primary">
+                    Code
+                  </Button>
               </CardActions>
             </Card>
           </Grid>
