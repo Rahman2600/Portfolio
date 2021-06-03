@@ -1,30 +1,30 @@
 {
   "files": {
-    "main.css": "/static/css/main.015e39d6.chunk.css",
-    "main.js": "/static/js/main.32426106.chunk.js",
-    "main.js.map": "/static/js/main.32426106.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.19ccc7f6.js",
-    "runtime-main.js.map": "/static/js/runtime-main.19ccc7f6.js.map",
-    "static/js/2.b3099017.chunk.js": "/static/js/2.b3099017.chunk.js",
-    "static/js/2.b3099017.chunk.js.map": "/static/js/2.b3099017.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.9ab569b1d5a4e85a3ae05598fb9de1eb.js": "/precache-manifest.9ab569b1d5a4e85a3ae05598fb9de1eb.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.015e39d6.chunk.css.map": "/static/css/main.015e39d6.chunk.css.map",
-    "static/js/2.b3099017.chunk.js.LICENSE.txt": "/static/js/2.b3099017.chunk.js.LICENSE.txt",
-    "static/media/App.css": "/static/media/coffee-apple.2dd213aa.jpg",
-    "static/media/hsbc.png": "/static/media/hsbc.0890a084.png",
-    "static/media/html-css-javascript.jpg": "/static/media/html-css-javascript.2c7701aa.jpg",
-    "static/media/javascript-fullstack.jpg": "/static/media/javascript-fullstack.730958a2.jpg",
-    "static/media/mern-stack.jpg": "/static/media/mern-stack.90616a5d.jpg",
-    "static/media/photo.png": "/static/media/photo.409c2c29.png",
-    "static/media/react-redux.jpg": "/static/media/react-redux.a8b012a0.jpg",
-    "static/media/react.png": "/static/media/react.f370c1e0.png"
+    "main.css": "/Portfolio/static/css/main.6b7b6148.chunk.css",
+    "main.js": "/Portfolio/static/js/main.80121991.chunk.js",
+    "main.js.map": "/Portfolio/static/js/main.80121991.chunk.js.map",
+    "runtime-main.js": "/Portfolio/static/js/runtime-main.e440ee5a.js",
+    "runtime-main.js.map": "/Portfolio/static/js/runtime-main.e440ee5a.js.map",
+    "static/js/2.b3099017.chunk.js": "/Portfolio/static/js/2.b3099017.chunk.js",
+    "static/js/2.b3099017.chunk.js.map": "/Portfolio/static/js/2.b3099017.chunk.js.map",
+    "index.html": "/Portfolio/index.html",
+    "precache-manifest.7227c9fac4331b919559ffe94152d941.js": "/Portfolio/precache-manifest.7227c9fac4331b919559ffe94152d941.js",
+    "service-worker.js": "/Portfolio/service-worker.js",
+    "static/css/main.6b7b6148.chunk.css.map": "/Portfolio/static/css/main.6b7b6148.chunk.css.map",
+    "static/js/2.b3099017.chunk.js.LICENSE.txt": "/Portfolio/static/js/2.b3099017.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/Portfolio/static/media/coffee-apple.2dd213aa.jpg",
+    "static/media/hsbc.png": "/Portfolio/static/media/hsbc.0890a084.png",
+    "static/media/html-css-javascript.jpg": "/Portfolio/static/media/html-css-javascript.2c7701aa.jpg",
+    "static/media/javascript-fullstack.jpg": "/Portfolio/static/media/javascript-fullstack.730958a2.jpg",
+    "static/media/mern-stack.jpg": "/Portfolio/static/media/mern-stack.90616a5d.jpg",
+    "static/media/photo.png": "/Portfolio/static/media/photo.409c2c29.png",
+    "static/media/react-redux.jpg": "/Portfolio/static/media/react-redux.a8b012a0.jpg",
+    "static/media/react.png": "/Portfolio/static/media/react.f370c1e0.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.19ccc7f6.js",
+    "static/js/runtime-main.e440ee5a.js",
     "static/js/2.b3099017.chunk.js",
-    "static/css/main.015e39d6.chunk.css",
-    "static/js/main.32426106.chunk.js"
+    "static/css/main.6b7b6148.chunk.css",
+    "static/js/main.80121991.chunk.js"
   ]
 }
