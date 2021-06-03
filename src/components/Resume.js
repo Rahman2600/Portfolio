@@ -121,7 +121,7 @@ const Resume = () => {
           variant="h2"
           className={`${classes.timeLineYear} ${classes.timeLineItem}`}
         >
-          2013
+          2018
         </Typography>
         <Box component="div" className={classes.timeLineItem}>
           <Typography
@@ -129,27 +129,27 @@ const Resume = () => {
             align="center"
             className={classes.subHeading}
           >
-            web design
-          </Typography>
-          <Typography variant="body1" align="center" className={classes.body1}>
-            company name where worked
+            Buses Are Us
           </Typography>
           <Typography
             variant="subtitle1"
             align="center"
             className={classes.subtitle1}
           >
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Vero quas
-            ipsa, laudantium totam perferendis possimus voluptatibus tenetur.
-            Quasi voluptatibus, nam vitae eaque ad, officia laboriosam
-            repudiandae, rerum necessitatibus nisi mollitia.
+            
+          Helps users locate bus stops in their vicinity and shows the arrival times and routes of buses
+          Implemented given complex object-oriented model for project
+          Wrote extensive tests in Junit to test Java classes
+          Parsed Vancouver Translink data provided in JSON format and also some of the data provided in a text file
+          Implemented UI functions which includes marking a bus stop on a map
+          Worked with Osmdroid API to implement some of the UI functions
           </Typography>
         </Box>
         <Typography
           variant="h2"
           className={`${classes.timeLineYear} ${classes.timeLineItem}`}
         >
-          2014
+          2018
         </Typography>
         <Box component="div" className={classes.timeLineItem}>
           <Typography
@@ -177,7 +177,7 @@ const Resume = () => {
           variant="h2"
           className={`${classes.timeLineYear} ${classes.timeLineItem}`}
         >
-          2015
+          2019
         </Typography>
         <Box component="div" className={classes.timeLineItem}>
           <Typography
@@ -205,7 +205,7 @@ const Resume = () => {
           variant="h2"
           className={`${classes.timeLineYear} ${classes.timeLineItem}`}
         >
-          2017
+          2019
         </Typography>
         <Box component="div" className={classes.timeLineItem}>
           <Typography
